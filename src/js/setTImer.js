@@ -1,5 +1,5 @@
-import refs from './ref';
-import CountdownTimer from './timer';
+import refs from './ref.js';
+import CountdownTimer from './timer.js';
 
 const { timer } = refs;
 

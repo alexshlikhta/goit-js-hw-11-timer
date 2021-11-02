@@ -1,1 +1,1 @@
-import './src/js/setTimer';
+import './src/js/setTimer.js';
